@@ -3,7 +3,6 @@ public class Employee {
     private String surname, name;
     private String address, title;
     private Double salary;
-
     private Role role;
 
     public Employee(String surname, String name, Double salary, Role role) {

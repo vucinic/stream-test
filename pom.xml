@@ -14,20 +14,20 @@
     </properties>
 
     <dependencies>
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <version>RELEASE</version>
-            <scope>compile</scope>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>org.projectlombok</groupId>-->
+<!--            <artifactId>lombok</artifactId>-->
+<!--            <version>RELEASE</version>-->
+<!--            <scope>compile</scope>-->
+<!--        </dependency>-->
 
-        <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok-maven-plugin -->
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok-maven-plugin</artifactId>
-            <version>1.18.20.0</version>
-            <scope>provided</scope>
-        </dependency>
+<!--        &lt;!&ndash; https://mvnrepository.com/artifact/org.projectlombok/lombok-maven-plugin &ndash;&gt;-->
+<!--        <dependency>-->
+<!--            <groupId>org.projectlombok</groupId>-->
+<!--            <artifactId>lombok-maven-plugin</artifactId>-->
+<!--            <version>1.18.20.0</version>-->
+<!--            <scope>provided</scope>-->
+<!--        </dependency>-->
 
     </dependencies>
 

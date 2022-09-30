@@ -21,7 +21,7 @@ public class Main {
         // For each department take only the first n employees that can be payed
         // using the annualBudget
 
-        // Print out the names of the departments in whi the sum of the employees' salary
+        // Print out the names of the departments in which the sum of the employees' salary
         // is greater than the department annual budget
 
     }
